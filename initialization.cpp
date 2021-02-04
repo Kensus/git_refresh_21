@@ -2,6 +2,8 @@
 
 #include<iostream>
 int add(int x, int y );
+int subtraction(int x, int y );
+
 
 int main()
 {
