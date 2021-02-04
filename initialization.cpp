@@ -10,6 +10,7 @@ int main()
 {
   int x{5};
   int y{4};
+  int z{10};
   
   int total{ add( x, y ) }; 
   std::cout<< total <<'\n';
