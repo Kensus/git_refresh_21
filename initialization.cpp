@@ -16,7 +16,7 @@ int main()
   
   return 0;
 }
-
+// add two values 
 int add(int x, int y )
 {
   return x + y;
