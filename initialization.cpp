@@ -8,7 +8,7 @@ int main()
   int a{5};
   int b{4};
   
-  int sum{ add( a, b ) }; 
+  int total{ add( a, b ) }; 
   std::cout<< sum <<'\n';
   
   return 0;
