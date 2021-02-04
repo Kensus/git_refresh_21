@@ -1,7 +1,9 @@
-//addition
+//subtraction
 
 #include<iostream>
 int add(int x, int y );
+int subtraction(int x, int y );
+
 
 int main()
 {
@@ -10,6 +12,7 @@ int main()
   
   int total{ add( x, y ) }; 
   std::cout<< total <<'\n';
+  
   
   return 0;
 }
