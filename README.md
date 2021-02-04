@@ -1,2 +1,2 @@
 # git_refresher_21
-repo refresher tororials
+repo refresher turorials
