@@ -5,11 +5,11 @@ int add(int x, int y );
 
 int main()
 {
-  int a{5};
-  int b{4};
+  int x{5};
+  int y{4};
   
-  int total{ add( a, b ) }; 
-  std::cout<< sum <<'\n';
+  int total{ add( x, y ) }; 
+  std::cout<< total <<'\n';
   
   return 0;
 }
